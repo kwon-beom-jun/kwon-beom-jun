@@ -52,9 +52,12 @@ Here are some ideas to get you started:
 - **KPCNC[Anyframe(framework)]** : Eclipse(IDE), Spring, Tomcat, BlackDuck, SonarQube, Jenkins, TestOpia, CodeBot, Nexus
 <br/><br/><br/>
 
-## BackJun
+## BACKJUN
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618)](https://solved.ac/qjawns0618)
 <!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618) -->
+
+## Github
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-beom-jun)](https://github.com/kwon-beom-jun/github-readme-stats)
 
 <br/><br/>
 ## Language
