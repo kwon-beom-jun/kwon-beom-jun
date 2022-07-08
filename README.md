@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 > Hello My name is BeomJun. I'm a growing developer.<br/>
 <br/>
 
-## USE LIST
+## Platforms & Languages
 <p>
   <img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
   <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>  
@@ -33,9 +33,8 @@ Here are some ideas to get you started:
     해당 repo 갯수
     <img src="https://img.shields.io/github/directory-file-count/kwon-beom-jun/kwon-beom-jun?type=dir"/>
   -->
-</p>
-  
-<br/><br/>
+</p><br/>
+
 ## Carrer
 
 | TYPE | DATE | DISCRIOTION | ORGANIZTION |
@@ -51,11 +50,11 @@ Here are some ideas to get you started:
 - **KPCNC[RPA]** : BrityWork
 - **KITRI[Spring Programming]** : 
 - **KPCNC[Anyframe(framework)]** : Eclipse(IDE), Spring, Tomcat, BlackDuck, SonarQube, Jenkins, TestOpia, CodeBot, Nexus
-<br/><br/>
+<br/><br/><br/>
 
 ## BackJun
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618)](https://solved.ac/qjawns0618)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618)
+<!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618) -->
 
 <br/><br/>
 ## Language
