@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kwon-beom-jun/kwon-beom-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,15 +14,16 @@ Here are some ideas to get you started:
 -->
 
 
-
-
+<br/><br/>
 # Profile
 
->Wellcom my github.  
->Hello My name is BeomJun. I'm a growing developer.  
+> Wellcom my github.<br/>
+> Hello My name is BeomJun. I'm a growing developer.
 https://shields.io/category/size/github/directory-file-count/:user/:repo?type=dir
 
+<br/><br/>
 ## Carrer
+
 | TYPE | DATE | DISCRIOTION | ORGANIZTION |
 | ------ | ------ | ------ | ------ |
 | Education | 2019.02 - 2019.7 | Application Software Engineering | THEHOEUN |
@@ -37,16 +36,16 @@ https://shields.io/category/size/github/directory-file-count/:user/:repo?type=di
 - KITRI[Spring Programming] : 
 - KPCNC[Framework, Web] : 
 
+<br/><br/>
 ## Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## My Site  
-> https://beom0618.tistory.com/  
-
-### GitHub Edit Reference  
-> https://davinci-ai.tistory.com/50
-
+<br/><br/>
+> #### Site  
+> > ###### Tistory : https://beom0618.tistory.com/
+> > ###### Reference GitHub Edit : https://davinci-ai.tistory.com/50
+> > ###### Reference GitHub Edit : https://gist.github.com/ihoneymon/652be052a0727ad59601
+<br/><br/>
 
 
 
