@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <br/><br/><br/>
 
 ## BACKJUN
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618)](https://www.acmicpc.net/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618)](https://www.acmicpc.net/user/qjawns0618)
 <!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618) -->
 
 <br/>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-beom-jun&layout=compact)](https://github.com/kwon-beom-jun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-beom-jun&layout=compact)](https://github.com/kwon-beom-jun)
 
 <br/><br/>
 
