@@ -51,6 +51,11 @@ Here are some ideas to get you started:
 - **KPCNC[RPA]** : BrityWork
 - **KITRI[Spring Programming]** : 
 - **KPCNC[Anyframe(framework)]** : Eclipse(IDE), Spring, Tomcat, BlackDuck, SonarQube, Jenkins, TestOpia, CodeBot, Nexus
+<br/><br/>
+
+## BackJun
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618)](https://solved.ac/qjawns0618)
+<!-- ?? ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618) -->
 
 <br/><br/>
 ## Language
