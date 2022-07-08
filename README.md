@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ## BackJun
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618)](https://solved.ac/qjawns0618)
-<!-- ?? ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618) -->
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618)
 
 <br/><br/>
 ## Language
