@@ -56,14 +56,18 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618)](https://www.acmicpc.net/)
 <!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?bo]=qjawns0618) -->
 
+<br/>
+
 ## Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-beom-jun)](https://github.com/kwon-beom-jun)
 
-<br/><br/>
+<br/>
+
 ## Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-beom-jun&layout=compact)](https://github.com/kwon-beom-jun/github-readme-stats)
 
 <br/><br/>
+
 > #### Site  
 > > ###### Tistory : https://beom0618.tistory.com/
 > > ###### Reference GitHub Edit : https://davinci-ai.tistory.com/50
