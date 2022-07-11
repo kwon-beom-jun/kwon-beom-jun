@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 > Wellcom my github.<br/>
 > Hello My name is BeomJun. I'm a growing developer.<br/>
-<br/>
 
-## Platforms & Languages
+### Platforms & Languages
 <p>
   <img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
   <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>  
