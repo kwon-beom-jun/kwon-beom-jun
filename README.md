@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 <br/><br/><br/>
 
 
-
+<!-- 설정시 API 연동이 잘 안됨 -->
 ## BACKJUN
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawns0618)](https://solved.ac/qjawns0618)  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawns0618)](https://solved.ac/qjawns0618)
 
 
 
