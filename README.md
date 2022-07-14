@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 | TYPE | DATE | DISCRIOTION | ORGANIZTION |
 | ------ | ------ | ------ | ------ |
-| Education | 2019.02 - 2019.7 | Application Software Engineering | THEHOEUN |
-| Employment | 2019.08 - 2021.12 | RPA | KPCNC |
 | Education | 2021.10 - 2021.12 | Spring Programming | KITRI |
+| Employment | 2019.08 - 2021.12 | RPA | KPCNC |
+| Education | 2019.02 - 2019.7 | Application Software Engineering | THEHOEUN |
 | Employment | 2022.01 - 2022.~ | Anyframe(framework) | KPCNC |
 <br/>
 
