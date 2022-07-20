@@ -19,20 +19,27 @@ Here are some ideas to get you started:
 > Wellcom my github.<br/>
 > Hello My name is BeomJun. I'm a growing developer.<br/>
 
-### Platforms & Languages
-<p>
-  <img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
-  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>  
-  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>  
-  <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/>
-  <img alt="Oralce" src ="https://img.shields.io/badge/Oralce-F80000.svg?&style=for-the-badge&logo=Oralce&logoColor=red"/>
-  <img alt="Apache Tomcat" src ="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=black"/>
-  <br/><br/>
-  <!--
-    해당 repo 갯수
-    <img src="https://img.shields.io/github/directory-file-count/kwon-beom-jun/kwon-beom-jun?type=dir"/>
-  -->
-</p><br/>
+
+
+
+>##### BACK-END STACK
+  ><p><img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>  
+  ><img alt="Oralce" src ="https://img.shields.io/badge/Oralce-F80000.svg?&style=for-the-badge&logo=Oralce&logoColor=red"/>
+  ><img alt="Apache Tomcat" src ="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=black"/></p>
+  
+>##### FRONT-END STACK
+  ><p><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>  
+  ><img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/></p>
+  
+>##### PLATFORMS
+  ><p><img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
+<!--
+  해당 repo 갯수
+  <img src="https://img.shields.io/github/directory-file-count/kwon-beom-jun/kwon-beom-jun?type=dir"/>
+-->
+<br/><br/>
+
+
 
 ## Carrer
 
