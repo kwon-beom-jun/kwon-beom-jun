@@ -87,12 +87,12 @@ Here are some ideas to get you started:
 > #### :bookmark: SITE  
 > > ##### Tistory </br> - https://beom0618.tistory.com/
 > > ##### Reference GitHub Edit </br> - https://davinci-ai.tistory.com/50 </br> - https://gist.github.com/ihoneymon/652be052a0727ad59601 </br> - https://2dowon.netlify.app/etc/github-badge/ </br> - https://simpleicons.org/ </br> - https://www.webfx.com/tools/emoji-cheat-sheet/
+
  
 
 
 
 
-<br/><br/>
 
 
 
