@@ -25,14 +25,20 @@ Here are some ideas to get you started:
 >##### BACK-END STACK
   ><p><img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>  
   ><img alt="Oralce" src ="https://img.shields.io/badge/Oralce-F80000.svg?&style=for-the-badge&logo=Oralce&logoColor=red"/>
-  ><img alt="Apache Tomcat" src ="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=black"/></p>
+  ><img alt="Apache Tomcat" src ="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=black"/>
+  ><img alt="JUnit5" src ="https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=JUnit5&logoColor=white"/></p>
   
 >##### FRONT-END STACK
   ><p><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>  
-  ><img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/></p>
+  ><img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/>
+  ><img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
+  ><img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
+  ><img alt="JSON" src ="https://img.shields.io/badge/JSON-000000.svg?&style=for-the-badge&logo=JSON&logoColor=white"/></p>
   
 >##### PLATFORMS
   ><p><img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
+  ><img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  ><img alt="SonarQube" src ="https://img.shields.io/badge/SonarQube-4E9BCD.svg?&style=for-the-badge&logo=SonarQube&logoColor=white"/></p>
 <!--
   해당 repo 갯수
   <img src="https://img.shields.io/github/directory-file-count/kwon-beom-jun/kwon-beom-jun?type=dir"/>
