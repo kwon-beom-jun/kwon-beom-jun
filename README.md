@@ -84,13 +84,14 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-> #### :bookmark: Site  
-> > ###### Tistory : https://beom0618.tistory.com/
-> > ###### Reference GitHub Edit : https://davinci-ai.tistory.com/50
-> > ###### Reference GitHub Edit : https://gist.github.com/ihoneymon/652be052a0727ad59601
-> > ###### Reference GitHub Edit : https://2dowon.netlify.app/etc/github-badge/
-> > ###### Reference GitHub Edit : https://simpleicons.org/
-> > ###### Reference GitHub Edit : https://www.webfx.com/tools/emoji-cheat-sheet/
+> #### :bookmark: SITE  
+> > ##### Tistory </br> - https://beom0618.tistory.com/
+> > ##### Reference GitHub Edit </br> - https://davinci-ai.tistory.com/50 </br> - https://gist.github.com/ihoneymon/652be052a0727ad59601 </br> - https://2dowon.netlify.app/etc/github-badge/ </br> - https://simpleicons.org/ </br> - https://www.webfx.com/tools/emoji-cheat-sheet/
+ 
+
+
+
+
 <br/><br/>
 
 
