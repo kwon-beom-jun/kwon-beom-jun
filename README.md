@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-# Profile
+# # Profile :mag:
 
 > Wellcom my github.<br/>
 > Hello My name is BeomJun. I'm a growing developer.<br/>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 
-## Carrer
+## :office: Carrer
 
 | TYPE | DATE | DISCRIOTION | ORGANIZTION |
 | ------ | ------ | ------ | ------ |
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 
 <!-- 설정시 API 연동이 잘 안됨 -->
-## BACKJUN
+## :notebook_with_decorative_cover: BACKJUN
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawns0618)](https://solved.ac/qjawns0618)  
 
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## Github
+## Github :octocat:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-beom-jun)](https://github.com/kwon-beom-jun)
 
 <br/>
@@ -84,11 +84,13 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-> #### Site  
+> #### :bookmark: Site  
 > > ###### Tistory : https://beom0618.tistory.com/
 > > ###### Reference GitHub Edit : https://davinci-ai.tistory.com/50
 > > ###### Reference GitHub Edit : https://gist.github.com/ihoneymon/652be052a0727ad59601
 > > ###### Reference GitHub Edit : https://2dowon.netlify.app/etc/github-badge/
+> > ###### Reference GitHub Edit : https://simpleicons.org/
+> > ###### Reference GitHub Edit : https://www.webfx.com/tools/emoji-cheat-sheet/
 <br/><br/>
 
 
