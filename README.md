@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 
 <!-- 설정시 API 연동이 잘 안됨 -->
-## :notebook_with_decorative_cover: BAEKJUN
+## :notebook_with_decorative_cover: BAEKJOON
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawns0618)](https://solved.ac/qjawns0618)  
 
 
