@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 - **KITRI[Spring Programming]** : (Basics)[Java, JavaScript, Spring, Tomcat]
 - **KPCNC[RPA]** : Samsung electro-mechanics partners BrityWork Development
 - **THEHOEUN[Application Software Engineering]** : Spring
-- **KPCNC[Anyframe(framework)]** : Eclipse(IDE), Spring, Tomcat, BlackDuck, SonarQube, Jenkins, TestOpia, CodeBot, Nexus
+- **KPCNC[Anyframe(framework)]** : Eclipse(IDE), Spring, Tomcat, BlackDuck, SonarQube, Jenkins, TestOpia, CodeBot, Nexus, Node.js
 <br/><br/><br/>
 
 
