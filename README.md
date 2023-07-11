@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
+<br/><br/>
+### I hope you have a nice day 👋
+<br/><br/>
 
-# # Profile :mag:
+## Profile :mag:
 
 > Wellcom my github.<br/>
 > Hello My name is BeomJun. I'm a growing developer.<br/>
