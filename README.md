@@ -12,16 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/><br/>
+<br/>
+
 ### I hope you have a nice day 👋
-<br/><br/>
+
+<br/>
 
 ## Profile :mag:
 
 > Wellcom my github.<br/>
 > Hello My name is BeomJun. I'm a growing developer.<br/>
-
-
 
 
 >##### BACK-END STACK
@@ -45,9 +45,8 @@ Here are some ideas to get you started:
   해당 repo 갯수
   <img src="https://img.shields.io/github/directory-file-count/kwon-beom-jun/kwon-beom-jun?type=dir"/>
 -->
+
 <br/><br/>
-
-
 
 ## :office: Carrer
 
@@ -57,6 +56,7 @@ Here are some ideas to get you started:
 | Employment | 2019.08 - 2021.12 | RPA | KPCNC |
 | Education | 2021.10 - 2021.12 | Application Software Engineering | THEHOEUN |
 | Employment | 2022.01 - 2022.~ | Anyframe(framework) | KPCNC |
+
 <br/>
 
 > ### **Carrer Moare Infomation**
@@ -64,31 +64,21 @@ Here are some ideas to get you started:
 - **KPCNC[RPA]** : Samsung electro-mechanics partners BrityWork Development
 - **THEHOEUN[Application Software Engineering]** : Spring
 - **KPCNC[Anyframe(framework)]** : Eclipse(IDE), Spring, Tomcat, BlackDuck, SonarQube, Jenkins, TestOpia, CodeBot, Nexus, Node.js
-<br/><br/><br/>
 
+<br/><br/>
 
 <!-- 설정시 API 연동이 잘 안됨 -->
 ## :notebook_with_decorative_cover: BAEKJOON
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawns0618)](https://solved.ac/qjawns0618)  
 
-
-
-
 <br/>
 
 ## Github :octocat:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-beom-jun)](https://github.com/kwon-beom-jun)
-
-<br/>
-
-## Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-beom-jun&layout=compact)](https://github.com/kwon-beom-jun)
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-> #### :bookmark: SITE  
-> > ##### Tistory </br> - https://beom0618.tistory.com/
-> > ##### Reference GitHub Edit </br> - https://davinci-ai.tistory.com/50 </br> - https://gist.github.com/ihoneymon/652be052a0727ad59601 </br> - https://2dowon.netlify.app/etc/github-badge/ </br> - https://simpleicons.org/ </br> - https://www.webfx.com/tools/emoji-cheat-sheet/
 
  
 
