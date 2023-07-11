@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
+
 ### I hope you have a nice day 👋
 
+<br/>
 
 ## Profile :mag:
 
