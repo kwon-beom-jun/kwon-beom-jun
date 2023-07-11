@@ -12,11 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
 
 ### I hope you have a nice day 👋
 
-<br/>
 
 ## Profile :mag:
 
@@ -77,7 +75,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-beom-jun)](https://github.com/kwon-beom-jun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-beom-jun&layout=compact)](https://github.com/kwon-beom-jun)
 
-<br/><br/><br/>
+<br/>
 
 
  
