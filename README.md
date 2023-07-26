@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 | Employment | 2019.08 - 2021.12 | RPA | KPCNC |
 | Education | 2021.10 - 2021.12 | Application Software Engineering | THEHOEUN |
 | Employment | 2022.01 - 2022.~ | Anyframe(framework) | KPCNC |
+| Education | 2023.07 - 2023.~ | Vue | GreenComputerArt |
 
 <br/>
 
@@ -65,6 +66,7 @@ Here are some ideas to get you started:
 - **KPCNC[RPA]** : Samsung electro-mechanics partners BrityWork Development
 - **THEHOEUN[Application Software Engineering]** : Spring
 - **KPCNC[Anyframe(framework)]** : Eclipse(IDE), Spring, Tomcat, BlackDuck, SonarQube, Jenkins, TestOpia, CodeBot, Nexus, Node.js
+- **GreenComputerArt[vue]** : vsCode, Vue.js
 
 <br/><br/>
 
