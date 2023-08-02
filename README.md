@@ -38,9 +38,9 @@ Here are some ideas to get you started:
    
 >##### Tool
   ><img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
-  ><img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
   ><img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  ><img alt="SonarQube" src ="https://img.shields.io/badge/SonarQube-4E9BCD.svg?&style=for-the-badge&logo=SonarQube&logoColor=white"/>
+  ><img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  ><img alt="SonarQube" src ="https://img.shields.io/badge/SonarQube-4E9BCD.svg?&style=for-the-badge&logo=SonarQube&logoColor=white"/><br/>
   ><img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
   ><img alt="jirasoftware" src ="https://img.shields.io/badge/jirasoftware-0052CC.svg?&style=for-the-badge&logo=jirasoftware&logoColor=white"/>
   ><img alt="apachemaven" src ="https://img.shields.io/badge/apachemaven-C71A36.svg?&style=for-the-badge&logo=apachemaven&logoColor=white"/>
