@@ -60,7 +60,7 @@ Here are some ideas to get you started:
    <img alt="JSON" src ="https://img.shields.io/badge/JSON-000000.svg?&style=for-the-badge&logo=JSON&logoColor=white"/>
    <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-beom-jun&layout=donut&theme=graywhite&langs_count)](https://github.com/kwon-beom-jun)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-beom-jun&layout=donut&langs_count&show_icons=true&theme=graywhite)](https://github.com/kwon-beom-jun)
   
   
 <!--
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## :octocat: Github
-[![BeomJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-beom-jun&theme=swift&rank_icon=github)](https://github.com/kwon-beom-jun)
+[![BeomJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-beom-jun&show_icons=true&rank_icon=github&theme=swift)](https://github.com/kwon-beom-jun)
 
 <br/>
 
