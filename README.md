@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-## Languages
+## Languages & Github :octocat:
 <p><img alt="java" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
    <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
    <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/>
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
    <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></p>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-beom-jun&layout=donut&langs_count&show_icons=true&theme=graywhite)](https://github.com/kwon-beom-jun)
-  
+  [![BeomJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-beom-jun&show_icons=true&rank_icon=github&line_height=28&theme=swift)](https://github.com/kwon-beom-jun)
   
 <!--
   해당 repo 갯수
@@ -94,13 +94,10 @@ Here are some ideas to get you started:
 
 <!-- 설정시 API 연동이 잘 안됨 -->
 ## :notebook_with_decorative_cover: BAEKJOON
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawns0618)](https://solved.ac/qjawns0618)  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawns0618)](https://solved.ac/qjawns0618)
+
 
 <br/>
-
-## :octocat: Github
-[![BeomJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-beom-jun&show_icons=true&rank_icon=github&theme=swift)](https://github.com/kwon-beom-jun)
-
 <br/>
 
 
