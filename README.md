@@ -61,7 +61,7 @@ Here are some ideas to get you started:
    <img alt="JSON" src ="https://img.shields.io/badge/JSON-000000.svg?&style=for-the-badge&logo=JSON&logoColor=white"/>
    <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-beom-jun&layout=donut&langs_count&theme=graywhite)](https://github.com/kwon-beom-jun)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-beom-jun&layout=donut&theme=graywhite)](https://github.com/kwon-beom-jun)
   [![BeomJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-beom-jun&rank_icon=github&line_height=28&theme=swift)](https://github.com/kwon-beom-jun)
   
 <!--
