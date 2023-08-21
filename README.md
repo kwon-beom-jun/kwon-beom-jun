@@ -75,11 +75,11 @@ Here are some ideas to get you started:
 
 | TYPE | DATE | DISCRIOTION | ORGANIZTION |
 | ------ | ------ | ------ | ------ |
-| Education | 2019.02 - 2019.7 | Spring Programming | KITRI |
+| Education | 2019.02 - 2019.07 | Spring Programming | KITRI |
 | Employment | 2019.08 - 2021.12 | RPA | KPCNC |
 | Education | 2021.10 - 2021.12 | Application Software Engineering | THEHOEUN |
 | Employment | 2022.01 - 2022.~ | Anyframe(framework) | KPCNC |
-| Education | 2023.07 - 2023.~ | Vue | GreenComputerArt |
+| Education | 2023.07 - 2023.09 | Vue | GreenComputerArt |
 
 <br/>
 
