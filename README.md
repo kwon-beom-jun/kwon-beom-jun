@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!-- 뱃지 설정 방법 : https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러} -->
 <!-- 언어 및 상태 표시 : https://github.com/anuraghazra/github-readme-stats/tree/master -->
-
+<!-- 이모지 : https://www.emojiengine.com/ko/keyboard/ -->
 
 >##### Database | Server
   ><img alt="Oralce" src ="https://img.shields.io/badge/Oralce-F80000.svg?&style=for-the-badge&logo=Oralce&logoColor=white"/>
