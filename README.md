@@ -84,11 +84,11 @@ Here are some ideas to get you started:
 
 <br/>
 
-> ### **Carrer Moare Infomation**
-- **KITRI[Spring Programming]** : (Basics)[Java, JavaScript, Spring, Tomcat]
+> ### **Carrer More Infomation**
+- **KITRI[Spring Programming]** : (Basics)[Java, JavaScript, Spring, Tomcat, Oracle]
 - **KPCNC[RPA]** : Samsung electro-mechanics partners BrityWork Development
 - **THEHOEUN[Application Software Engineering]** : Spring
-- **KPCNC[Anyframe(framework)]** : Eclipse(IDE), Spring, Tomcat, BlackDuck, SonarQube, Jenkins, TestOpia, CodeBot, Nexus, Node.js
+- **KPCNC[Anyframe(framework)]** : Linux, Spring, SpringBoot, Tomcat, Jeus, Node.js, Vue.js, Oracle, Git, Cryptography, NetWork, BlackDuck, SonarQube, Jenkins, TestOpia, Nexus, Eclipse(IDE)
 - **GreenComputerArt[vue]** : vsCode, Vue.js
 
 <br/><br/>
