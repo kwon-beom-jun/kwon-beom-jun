@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 > Hello My name is BeomJun. I'm a growing developer.<br/>
 
 
-<!-- 뱃지 설정 방법 : https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러} -->
+<!-- 뱃지 설정 방법 : https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러} /// 스타일 # 제외해야함 /// -->
 <!-- 뱃지 : https://simpleicons.org/ -->
 <!-- 언어 및 상태 표시 : https://github.com/anuraghazra/github-readme-stats/tree/master -->
 <!-- 이모지 : https://www.emojiengine.com/ko/keyboard/ -->
@@ -51,6 +51,11 @@ Here are some ideas to get you started:
    <img alt="JUnit5" src ="https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=JUnit5&logoColor=white"/>
    <img alt="linux" src ="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
    <img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/></p>
+
+#### Cloud
+<p><img alt="amazonaws" src ="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+   <!-- <img alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> -->
+   </p>
 
 <br/><br/>
 
@@ -81,6 +86,7 @@ Here are some ideas to get you started:
 | Education | 2021.10 - 2021.12 | Application Software Engineering | THEHOEUN |
 | Employment | 2022.01 - 2022.~ | Anyframe(framework) | KPCNC |
 | Education | 2023.07 - 2023.09 | Vue | GreenComputerArt |
+| Education | 2023.01 - 2023.02 | AWS | KoreaIT |
 
 <br/>
 
@@ -90,6 +96,7 @@ Here are some ideas to get you started:
 - **THEHOEUN[Application Software Engineering]** : Spring
 - **KPCNC[Anyframe(framework)]** : Linux, Spring, SpringBoot, Tomcat, Jeus, Node.js, Vue.js, Oracle, Git, Cryptography, NetWork, BlackDuck, SonarQube, Jenkins, TestOpia, Nexus, Eclipse(IDE)
 - **GreenComputerArt[vue]** : vsCode, Vue.js
+- **KoreaIT** : AWS
 
 <br/><br/>
 
