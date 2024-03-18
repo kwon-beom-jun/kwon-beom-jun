@@ -35,22 +35,17 @@ Here are some ideas to get you started:
 
 #### Database | Server
 <p><img alt="Oralce" src ="https://img.shields.io/badge/Oralce-F80000.svg?&style=for-the-badge&logo=Oralce&logoColor=white"/>
-   <img alt="microsoftsqlserver" src ="https://img.shields.io/badge/microsoftsqlserver-CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
    <img alt="Apache Tomcat" src ="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=black"/></p>
    
 #### Tool
 <p><img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
    <img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
-   <img alt="SonarQube" src ="https://img.shields.io/badge/SonarQube-4E9BCD.svg?&style=for-the-badge&logo=SonarQube&logoColor=white"/><br/>
-   <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
-   <img alt="jirasoftware" src ="https://img.shields.io/badge/jirasoftware-0052CC.svg?&style=for-the-badge&logo=jirasoftware&logoColor=white"/>
    <img alt="apachemaven" src ="https://img.shields.io/badge/apachemaven-C71A36.svg?&style=for-the-badge&logo=apachemaven&logoColor=white"/></p>
 
 #### Framework | OS
 <p><img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
    <img alt="JUnit5" src ="https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=JUnit5&logoColor=white"/>
-   <img alt="linux" src ="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
-   <img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/></p>
+   <img alt="linux" src ="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/></p>
 
 #### Cloud
 <p><img alt="amazonaws" src ="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -66,9 +61,9 @@ Here are some ideas to get you started:
    <img alt="JSON" src ="https://img.shields.io/badge/JSON-000000.svg?&style=for-the-badge&logo=JSON&logoColor=white"/>
    <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
    <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/></p>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-beom-jun&layout=donut&theme=graywhite)](https://github.com/kwon-beom-jun)
-  [![BeomJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-beom-jun&rank_icon=github&line_height=28&theme=swift)](https://github.com/kwon-beom-jun)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-beom-jun&layout=donut&theme=gray)](https://github.com/kwon-beom-jun)
+![BeomJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-beom-jun&rank_icon=github&theme=swift&line_height=28)
   
 <!--
   해당 repo 갯수
@@ -94,7 +89,7 @@ Here are some ideas to get you started:
 - **KITRI[Spring Programming]** : (Basics)[Java, JavaScript, Spring, Tomcat, Oracle]
 - **KPCNC[RPA]** : Samsung electro-mechanics partners BrityWork Development
 - **THEHOEUN[Application Software Engineering]** : Spring
-- **KPCNC[Anyframe(framework)]** : Linux, Spring, SpringBoot, Tomcat, Jeus, Node.js, Vue.js, Oracle, Git, Cryptography, NetWork, BlackDuck, SonarQube, Jenkins, TestOpia, Nexus, Eclipse(IDE)
+- **KPCNC[Anyframe(framework)]** : Linux, Spring, SpringBoot, Tomcat, Jeus, Vue.js, Oracle, Git, NetWork, Jenkins, Nexus, Eclipse(IDE)
 - **GreenComputerArt[vue]** : vsCode, Vue.js
 - **KoreaIT** : AWS
 
