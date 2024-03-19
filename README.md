@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
 <!-- 설정시 API 연동이 잘 안됨 -->
 ## :notebook_with_decorative_cover: BAEKJOON
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawns0618)](https://solved.ac/profile/qjawns0618)
+[![Solved.ac Profile : https://solved.ac/profile/qjawns0618](http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawns0618)](https://solved.ac/profile/qjawns0618)
 
 <br/>
 <br/>
