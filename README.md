@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!-- 언어 및 상태 표시 : https://github.com/anuraghazra/github-readme-stats/tree/master -->
 <!-- 이모지 : https://www.emojiengine.com/ko/keyboard/ -->
 
-#### Tech Stack
+#### TECH STACK
 <p><img alt="Oralce" src ="https://img.shields.io/badge/Oralce-F80000.svg?&style=for-the-badge&logo=Oralce&logoColor=white"/>
    <img alt="Apache Tomcat" src ="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=black"/>
    <img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
