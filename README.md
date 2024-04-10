@@ -92,10 +92,10 @@ Here are some ideas to get you started:
 <br/>
 
 > ### **Carrer More Infomation**
-- **KITRI[Spring Programming]** : (Basics)[Java, JavaScript, Spring, Tomcat, Oracle]
 - **KPCNC[RPA]** : Samsung electro-mechanics partners BrityWork Development
-- **THEHOEUN[Application Software Engineering]** : Spring
 - **KPCNC[Anyframe(framework)]** : Linux, Spring, SpringBoot, Tomcat, Jeus, Vue.js, Oracle, Git, NetWork, Jenkins, Nexus, Eclipse(IDE)
+- **KITRI[Spring Programming]** : (Basics)[Java, JavaScript, Spring, Tomcat, Oracle]
+- **THEHOEUN[Application Software Engineering]** : Spring
 - **GreenComputerArt[vue]** : vsCode, Vue.js
 - **KoreaIT** : AWS
 
