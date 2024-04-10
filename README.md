@@ -75,14 +75,19 @@ Here are some ideas to get you started:
 
 ## :office: Carrer
 
-| TYPE | DATE | DISCRIOTION | ORGANIZTION |
-| ------ | ------ | ------ | ------ |
-| Education | 2019.02 - 2019.07 | Spring Programming | KITRI |
-| Employment | 2019.08 - 2021.12 | RPA | KPCNC |
-| Education | 2021.10 - 2021.12 | Application Software Engineering | THEHOEUN |
-| Employment | 2022.01 - 2022.~ | Anyframe(framework) | KPCNC |
-| Education | 2023.07 - 2023.09 | Vue | GreenComputerArt |
-| Education | 2023.01 - 2023.02 | AWS | KoreaIT |
+#### EMPLOYMENT
+| DATE | DISCRIOTION | ORGANIZTION |
+| ------ | ------ | ------ |
+| 2019.08 - 2020.6 | RPA | KPCNC |
+| 2020.06 - 2024.~ | Anyframe(framework) | KPCNC |
+
+#### EDUCATION
+| DATE | DISCRIOTION | ORGANIZTION |
+| ------ | ------ | ------ |
+| 2019.02 - 2019.07 | Spring Programming | KITRI |
+| 2021.10 - 2021.12 | Application Software Engineering | THEHOEUN |
+| 2023.07 - 2023.09 | Vue | GreenComputerArt |
+| 2023.01 - 2023.02 | AWS | KoreaIT |
 
 <br/>
 
