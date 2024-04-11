@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 | 2019.02 - 2019.07 | Spring Programming | KITRI |
 | 2021.10 - 2021.12 | Application Software Engineering | THEHOEUN |
 | 2023.07 - 2023.09 | Vue | GreenComputerArt |
-| 2023.01 - 2023.02 | AWS | KoreaIT |
+| 2024.01 - 2024.02 | AWS | KoreaIT |
 
 <br/>
 
