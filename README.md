@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 <br/>
 
-
-### I hope you have a nice day 👋
+<!-- 👋 -->
+### I hope you have a nice day 😄
 
 <!--
 ##### 🌱 [MY Portfolio] (https://kwon-beom-jun.github.io/my-portfolio/)
