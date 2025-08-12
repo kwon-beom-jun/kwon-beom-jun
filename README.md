@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 
 #### TECH STACK
 <p><img alt="Oralce" src ="https://img.shields.io/badge/Oralce-F80000.svg?&style=for-the-badge&logo=Oralce&logoColor=white"/>
-   <img alt="Apache Tomcat" src ="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=black"/>
+   <!-- <img alt="Apache Tomcat" src ="https://img.shields.io/badge/Tomcat-v9.0-blue.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=black"/> -->
+   <img alt="Apache Tomcat" src="https://img.shields.io/badge/Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache-Tomcat&logoColor=black"/>
    <img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
    <img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
    <img alt="apachemaven" src ="https://img.shields.io/badge/apachemaven-C71A36.svg?&style=for-the-badge&logo=apachemaven&logoColor=white"/>
